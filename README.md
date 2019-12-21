@@ -28,16 +28,13 @@
 
 
 ## 활용 API
-네이버 지도 API
 AWS DynamoDB
-Geolocation API
+Google Cloud API
 
 
 ## Made By
-* 어플리케이션 : 이민우, 서동환
-* 서버 : 최재혁, 서동환
-* 데이터베이스 : 서동환
-* 인공지능 : 김강운, 최재혁
+* 이민우 : 안드로이드 전반 제작, 라즈베리 파이-다이나모DB 연동 코드 작성
+* 전우성 : 라즈베리 파이 전반 제작
 
 ## Raspberry PI
 https://github.com/123okk2/AutomaticCarEntranceOpener_RaspberryPi
